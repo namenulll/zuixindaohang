@@ -325,6 +325,9 @@
 - taxonomy: 港澳台、海外电视直播
   icon: fa-tv
   links:
+   - title: tv.garden
+      url: https://tv.garden/
+      description: 全球电视直播
     - title: fashion tv
       url: https://fashiontv.com/watch/18717158?entity_id=312066
       description: 宣传国际时尚和生活方式的电视频道
