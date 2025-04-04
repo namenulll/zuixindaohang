@@ -339,15 +339,20 @@
       description: 海外电视直播
     - title: 野生动物4K HDR 120FPS Dolby Vision
       url: https://www.youtube.com/watch?v=uXNU0XgGZhs
-      description: YouTube官方直播
+      description: 4K HDR 120FPS Dolby Vision
     - title: 非洲野生动物4K
-      url: https://www.youtube.com/watch?v=HFib76ySpbU
+      url: https://www.youtube.com/watch?v=bKLftRxcy3k
     - title: 爱自然-野生动植物与自然纪录片
-      url: https://www.youtube.com/watch?v=HFib76ySpbU
+      url: https://www.youtube.com/watch?v=daqB3i9WYIY
       description: YouTube官方直播
+    - title: 地球earthTV®
+      url: https://www.youtube.com/watch?v=HfgIFGbdGJ0
+      description: 全球各地视角
     - title: Nasa国际空间站
-      url: https://www.youtube.com/watch?v=HFib76ySpbU
+      url: https://www.youtube.com/watch?v=0FBiyFpV__g
+      description: 来自国际空间站的现场直播 | 梦想之旅
     - title: 凤凰卫视资讯台
+      description: YouTube官方直播
       url: https://www.youtube.com/watch?v=HFib76ySpbU
       description: YouTube官方直播
     - title: 中视新闻台
@@ -416,6 +421,9 @@
     - title: 寰宇新聞
       url: https://www.youtube.com/watch?v=6IquAgfvYmc
       description: YouTube官方直播
+    - title: ThaiPod101 TV
+      url: https://www.youtube.com/watch?v=cbelDhai0D0
+      description: 泰语学习频道
 
 - taxonomy: 国内电视直播
   icon: fa-tv
