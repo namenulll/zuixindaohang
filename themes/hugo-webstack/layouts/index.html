@@ -268,11 +268,8 @@
                     $('body').removeClass('black').addClass('white');
             }        
         });
-        <!--
-  通过分析链接 实时获取favicon
-  @url 需要分析的Url地址
--->
-<!--
+        <!--通过分析链接 实时获取favicon@url 需要分析的Url地-->
+
 function getFavicon(url){
   if(url.match(/https{0,1}:\/\//)){
     //return "https://ui-avatars.com/api/?bold=true&size=36&background=0D8ABC&color=fff&rounded=true&name=" + url.split('//')[1];
@@ -282,7 +279,6 @@ function getFavicon(url){
     return "https://www.google.com/s2/favicons?sz=64&domain_url=http://" + url;
   } 
 }
--->
         <!-- END 利用iowen API 获取网址icon START-->
         
         $(document).on('click', '.has-sub', function(){
