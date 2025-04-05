@@ -328,7 +328,8 @@
    - title: tv.garden
       url: https://tv.garden/
       description: 全球电视直播
-    - title: fashion tv
+    - title: FashionTV
+      logo: images/logos/fstv.png
       url: https://fashiontv.com/watch/18717158?entity_id=312066
       description: 宣传国际时尚和生活方式的电视频道
     - title: 夜视影音
@@ -355,6 +356,7 @@
       url: https://www.youtube.com/watch?v=0FBiyFpV__g
       description: 来自国际空间站的现场直播 | 梦想之旅
     - title: 凤凰卫视资讯台
+      logo: images/logos/fhws.png
       description: YouTube官方直播
       url: https://www.youtube.com/watch?v=HFib76ySpbU
       description: YouTube官方直播
