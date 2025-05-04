@@ -161,25 +161,25 @@
   icon: fa-brain
   links:
     - title: DeepSeek
-      logo: images/logos/DeepSeek.png
+      logo: https://www.faviconextractor.com/favicon/chat.deepseek.com?larger=true
       url: https://chat.deepseek.com/
-      description: 中国人工智能公司研发的大型语言模型
-    - title: chatGPT
-      logo: images/logos/chatgpt.png
+      description: 中国研发的大型语言模型平台
+    - title: ChatGPT
+      logo: https://www.faviconextractor.com/favicon/chat.openai.com?larger=true
       url: https://chat.openai.com/
-      description: 领先的人工智能研究组织
-    - title: 谷歌Gemini AI助手
-      logo: images/logos/gemini.png
+      description: OpenAI推出的领先人工智能对话平台
+    - title: 谷歌 Gemini
+      logo: https://www.faviconextractor.com/favicon/gemini.google.com?larger=true
       url: https://gemini.google.com/
-      description: 谷歌Gemini AI助手是谷歌的人工智能助手
+      description: 谷歌推出的人工智能助手
     - title: Bing AI
-      logo: images/logos/cpo.png
+      logo: https://www.faviconextractor.com/favicon/bing.com?larger=true
       url: https://bing.com/chat
-      description: 微软Bing搜索引擎的人工智能技术
+      description: 微软 Bing 集成的人工智能助手
     - title: Claude
-      logo: images/logos/claude.ai.png
+      logo: https://www.faviconextractor.com/favicon/claude.ai?larger=true
       url: https://claude.ai/
-      description: Claude是一个人工智能写作助手
+      description: Anthropic 推出的 AI 写作与对话助手
 
 - taxonomy: 在线免费影视专区
   icon: fa-film
@@ -265,26 +265,33 @@
   icon: fa-users
   links:
     - title: 全球主机交流论坛
+      logo: https://www.faviconextractor.com/favicon/hostloc.com?larger=true
       url: https://hostloc.com/
       description: 全球主机交流论坛
     - title: LINUX DO
+      logo: https://www.faviconextractor.com/favicon/linux.do?larger=true
       url: https://linux.do/
       description: Let's do it with linux
     - title: LowEndTalk
+      logo: https://www.faviconextractor.com/favicon/www.lowendtalk.com?larger=true
       url: https://www.lowendtalk.com/
       description: 外国云服务社区
     - title: nodeseek
+      logo: https://www.faviconextractor.com/favicon/nodeseek.com?larger=true
       url: https://nodeseek.com/
       description: 中文云服务器讨论社区
     - title: V2EX
+      logo: https://www.faviconextractor.com/favicon/www.v2ex.com?larger=true
       url: https://www.v2ex.com/
       description: 程序员和设计师的社区交流平台
     - title: 国外主机测评
+      logo: https://www.faviconextractor.com/favicon/www.zhujiceping.com?larger=true
       url: https://www.zhujiceping.com/
-      description: 。。。。
+      description: 国外主机与云服务评测社区
     - title: IT狗
+      logo: https://www.faviconextractor.com/favicon/www.itdog.cn?larger=true
       url: https://www.itdog.cn/
-      description: 网络工具
+      description: 网络工具服务平台
     - title: 吾爱破解
       logo: images/logos/wuai.png
       url: https://www.52pojie.cn/
@@ -298,27 +305,35 @@
       url: https://pan.baidu.com/
       description: 百度旗下的网盘服务
     - title: 蓝奏云
+      logo: https://www.faviconextractor.com/favicon/www.lanzou.com?larger=true
       url: https://www.lanzou.com/
       description: 免费高速网络存储和分享服务
     - title: 坚果云
+      logo: https://www.faviconextractor.com/favicon/www.jianguoyun.com?larger=true
       url: https://www.jianguoyun.com/
       description: 提供云存储服务的网站
     - title: 115网盘
+      logo: https://www.faviconextractor.com/favicon/115.com?larger=true
       url: https://115.com/
       description: 提供网络存储服务的网站
     - title: 360云盘
+      logo: https://www.faviconextractor.com/favicon/yunpan.360.cn?larger=true
       url: https://yunpan.360.cn/
       description: 由奇虎360推出的网络存储服务
     - title: 阿里云盘
+      logo: https://www.faviconextractor.com/favicon/www.aliyundrive.com?larger=true
       url: https://www.aliyundrive.com/
       description: 阿里云推出的网盘服务
     - title: 夸克网盘
+      logo: https://www.faviconextractor.com/favicon/www.quark.cn?larger=true
       url: https://www.quark.cn/
       description: 提供网络存储服务的网站
     - title: 谷歌网盘
+      logo: https://www.faviconextractor.com/favicon/drive.google.com?larger=true
       url: https://drive.google.com/
       description: 谷歌推出的云存储服务
     - title: 微软网盘
+      logo: https://www.faviconextractor.com/favicon/onedrive.live.com?larger=true
       url: https://onedrive.live.com/
       description: 微软推出的云存储服务
 
@@ -434,57 +449,75 @@
   icon: fa-tv
   links:
     - title: CCTV
+      logo: https://www.faviconextractor.com/favicon/tv.cctv.com?larger=true
       url: http://tv.cctv.com/live/
       description: 中国中央电视台
     - title: 南宁电视台
+      logo: https://www.faviconextractor.com/favicon/www.nntv.cn?larger=true
       url: https://www.nntv.cn/live/nntv_xw/
       description: 南宁市地方电视台
     - title: 广西电视台
+      logo: https://www.faviconextractor.com/favicon/tv.gxtv.cn?larger=true
       url: https://tv.gxtv.cn/
       description: 广西自治区电视台
     - title: 广东电视台
+      logo: https://www.faviconextractor.com/favicon/www.gdtv.cn?larger=true
       url: https://www.gdtv.cn/tvChannelDetail/43
       description: 广东省地方电视台
     - title: 江苏电视台
+      logo: https://www.faviconextractor.com/favicon/live.jstv.com?larger=true
       url: https://live.jstv.com/
       description: 江苏省地方电视台
     - title: 湖南卫视
+      logo: https://www.faviconextractor.com/favicon/live.mgtv.com?larger=true
       url: https://live.mgtv.com/?channelId=316
       description: 湖南省地方卫视台
     - title: 安徽电视台
+      logo: https://www.faviconextractor.com/favicon/www.ahtv.cn?larger=true
       url: https://www.ahtv.cn/folder9000/folder20193
       description: 安徽省地方电视台
     - title: 上海电视台
+      logo: https://www.faviconextractor.com/favicon/live.kankanews.com?larger=true
       url: https://live.kankanews.com/huikan
       description: 上海地方电视台
     - title: 贵州电视台
+      logo: https://www.faviconextractor.com/favicon/www.gzstv.com?larger=true
       url: https://www.gzstv.com/tv/ch01
       description: 贵州地方电视台
     - title: 云南电视台
+      logo: https://www.faviconextractor.com/favicon/www.yntv.cn?larger=true
       url: https://www.yntv.cn/live.html
       description: 云南地方电视台
     - title: 浙江电视台
+      logo: https://www.faviconextractor.com/favicon/www.cztv.com?larger=true
       url: http://www.cztv.com/live?cid=101
       description: 浙江地方电视台
     - title: 内蒙古电视台
+      logo: https://www.faviconextractor.com/favicon/www.nmtv.cn?larger=true
       url: https://www.nmtv.cn/liveTv
       description: 内蒙古地方电视台
     - title: 河北古电视台
+      logo: https://www.faviconextractor.com/favicon/www.hebtv.com?larger=true
       url: https://www.hebtv.com/19/19js/st/xdszb/index.shtml
       description: 河北地方电视台
     - title: 湖北电视台
+      logo: https://www.faviconextractor.com/favicon/news.hbtv.com.cn?larger=true
       url: https://news.hbtv.com.cn/app/tv/438
       description: 湖北地方电视台
     - title: 海南电视台
+      logo: https://www.faviconextractor.com/favicon/www.hnntv.cn?larger=true
       url: https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=live_list
       description: 海南地方电视台
     - title: 新疆电视台
+      logo: https://www.faviconextractor.com/favicon/www.xjtvs.com.cn?larger=true
       url: https://www.xjtvs.com.cn/live/xjtv.shtml
       description: 新疆地方电视台
     - title: 福建电视台
+      logo: https://www.faviconextractor.com/favicon/live.fjtv.net?larger=true
       url: https://live.fjtv.net/zhpd/
       description: 福建地方电视台
     - title: 广州电视台
+      logo: https://www.faviconextractor.com/favicon/www.gztv.com?larger=true
       url: https://www.gztv.com/#/channel
       description: 广州地方电视台
 
