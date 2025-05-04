@@ -121,7 +121,7 @@
       url: https://www.tiktok.com/
       description: 全球热门的短视频分享平台
     - title: Google
-      logo: images/logos/guge.png
+      logo: https://www.faviconextractor.com/favicon/www.google.com?larger=true
       url: https://www.google.com/
       description: 全球最大的搜索引擎和互联网技术公司
     - title: Instagram
