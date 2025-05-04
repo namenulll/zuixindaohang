@@ -185,62 +185,62 @@
   icon: fa-film
   links:
     - title: 追影猫
-      logo: images/logos/zymm.png
+      logo: https://www.faviconextractor.com/favicon/zhuiyingmao5.com?larger=true
       url: https://zhuiyingmao5.com/
       description: 汇集众多第三方可用网站
     - title: 臭蛋蛋影视导航
-      logo: images/logos/choudanys.png
+      logo: https://www.faviconextractor.com/favicon/cddys.com?larger=true
       url: https://cddys.com/
       description: 收集全网热门第三方在线视频网站
     - title: HDmoli
-      logo: images/logos/HDMOLI.png
+      logo: https://www.faviconextractor.com/favicon/hdmoli.pro?larger=true
       url: https://www.hdmoli.pro/
       description: 免费高清影视平台
     - title: 影视TV
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/yingshi.tv?larger=true
       url: https://yingshi.tv/
       description: 全球华人在线视频媒体平台,免费点播
     - title: 低端影视
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/ddys.info?larger=true
       url: https://ddys.info/
       description: 免费高清影视平台
     - title: 飞快TV
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/feikuai.tv?larger=true
       url: https://feikuai.tv/
       description: 免费高清影视平台
     - title: 独播库(推荐，需海外IP访问)
-      logo: images/logos/DUBO.png
+      logo: https://www.faviconextractor.com/favicon/duboku.tv?larger=true
       url: https://www.duboku.tv/
-      description: 内容多、流畅、
+      description: 内容多、流畅
     - title: 一个G影视
-      logo: images/logos/YIGEG.png
+      logo: https://www.faviconextractor.com/favicon/ygg01.com?larger=true
       url: https://www.ygg01.com/
       description: 免费高清影视平台
     - title: 爱壹帆国际版(海外IP访问)
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/yfsp.tv?larger=true
       url: https://www.yfsp.tv/
       description: 海外视频分享平台、用户互相分享
     - title: NOXX
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/noxx.to?larger=true
       url: https://noxx.to/
       description: 海外视频大全推荐平台之一
     - title: 111TV
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/111tvs.com?larger=true
       url: https://www.111tvs.com/
       description: 免费高清影视平台
     - title: Kimivod
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/kimivod.com?larger=true
       url: https://kimivod.com/
       description: 免费高清影视平台
     - title: 99itv
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/99itv.net?larger=true
       url: https://99itv.net/
       description: 免费高清影视平台
     - title: 七位网
-      logo: images/logos/vdd.png
+      logo: https://www.faviconextractor.com/favicon/pkavi.com?larger=true
       url: https://www.pkavi.com/
-      description: 免费高清影视下载  
-      
+      description: 免费高清影视下载
+
 - taxonomy: 软件下载专区
   icon: fa-download
   links:
