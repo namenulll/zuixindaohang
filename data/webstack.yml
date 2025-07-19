@@ -184,6 +184,10 @@
 - taxonomy: 在线免费影视专区
   icon: fa-film
   links:
+    - title: LibreTV
+      logo: https://www.faviconextractor.com/favicon/ys.558868.xyz?larger=true
+      url: https://ys.558868.xyz/
+      description: 自由观影，畅享精彩
     - title: 追影猫
       logo: https://www.faviconextractor.com/favicon/zhuiyingmao5.com?larger=true
       url: https://zhuiyingmao5.com/
@@ -208,17 +212,17 @@
       logo: https://www.faviconextractor.com/favicon/feikuai.tv?larger=true
       url: https://feikuai.tv/
       description: 免费高清影视平台
-    - title: 独播库(推荐，需海外IP访问)
-      logo: https://www.faviconextractor.com/favicon/duboku.tv?larger=true
-      url: https://www.duboku.tv/
-      description: 内容多、流畅
-    - title: 一个G影视
-      logo: https://www.faviconextractor.com/favicon/ygg01.com?larger=true
-      url: https://www.ygg01.com/
+    - title: 天天影院
+      logo: https://www.faviconextractor.com/favicon/ttyy800.top?larger=true
+      url: https://ttyy800.top/
+      description: 0000
+    - title: 大米星球
+      logo: https://www.faviconextractor.com/favicon/dmdy3.com?larger=true
+      url: https://www.dmdy3.com/
       description: 免费高清影视平台
     - title: 爱壹帆国际版(海外IP访问)
-      logo: https://www.faviconextractor.com/favicon/yfsp.tv?larger=true
-      url: https://www.yfsp.tv/
+      logo: https://www.faviconextractor.com/favicon/yfvod.com?larger=true
+      url: https://www.yfvod.com/
       description: 海外视频分享平台、用户互相分享
     - title: NOXX
       logo: https://www.faviconextractor.com/favicon/noxx.to?larger=true
