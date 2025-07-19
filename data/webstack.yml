@@ -6,6 +6,10 @@
       logo: images/logos/it.png
       url: https://www.ithome.com/
       description: IT科技资讯网站
+    - title: TechWeb
+      logo: https://www.faviconextractor.com/favicon/techweb.com.cn?larger=true
+      url: https://www.techweb.com.cn/
+      description: 互联网消费互动媒体
     - title: 今日热榜
       logo: images/logos/rebang.png
       url: https://tophub.today/
@@ -63,6 +67,7 @@
       url: https://www.toutiao.com/
       description: 中国领先的新闻资讯平台
     - title: 站长工具
+      logo: https://www.faviconextractor.com/favicon/ping.chinaz.com?larger=true
       url: https://ping.chinaz.com/
       description: 站长工具
     - title: 优酷视频
@@ -85,6 +90,10 @@
       logo: images/logos/yiche.png
       url: https://www.yiche.com/
       description: 提供专业、丰富的互联网资讯和导购服务
+    - title: 游侠网
+      logo: https://www.faviconextractor.com/favicon/ali213.net?larger=true
+      url: https://www.ali213.net/
+      description: 中国最具权威的单机游戏门户
 
 - taxonomy: 国外热门网站
   icon: fa-globe
