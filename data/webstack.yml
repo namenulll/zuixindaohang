@@ -213,10 +213,14 @@
       logo: https://www.faviconextractor.com/favicon/hdmoli.pro?larger=true
       url: https://www.hdmoli.pro/
       description: 免费高清影视平台
-    - title: 影视TV
-      logo: https://www.faviconextractor.com/favicon/yingshi.tv?larger=true
-      url: https://yingshi.tv/
-      description: 全球华人在线视频媒体平台,免费点播
+    - title: 4k影视
+      logo: https://www.faviconextractor.com/favicon/4kvm.org?larger=true
+      url: https://www.4kvm.org/
+      description: 高清、不卡頓
+    - title: 奇酷影视
+      logo: https://www.faviconextractor.com/favicon/qkys1.cc?larger=true
+      url: https://qkys1.cc/
+      description: 海量稀有片源一网打尽
     - title: 低端影视
       logo: https://www.faviconextractor.com/favicon/ddys.info?larger=true
       url: https://ddys.info/
@@ -256,6 +260,10 @@
     - title: 七位网
       logo: https://www.faviconextractor.com/favicon/pkavi.com?larger=true
       url: https://www.pkavi.com/
+      description: 免费高清影视下载
+    - title: 注視影視
+      logo: https://www.faviconextractor.com/favicon/gaze.run?larger=true
+      url: https://gaze.run/
       description: 免费高清影视下载
 
 - taxonomy: 软件下载专区
