@@ -94,6 +94,26 @@
       logo: https://www.faviconextractor.com/favicon/ali213.net?larger=true
       url: https://www.ali213.net/
       description: 专注单机大作速递、汉化补丁发布与深度游戏攻略的权威基地
+    - title: 携程旅行
+      logo: https://www.faviconextractor.com/favicon/ctrip.com?larger=true
+      url: https://www.ctrip.com/
+      description: 提供机票酒店预订、旅游攻略与一站式出行服务的综合度假门户
+    - title: 游民星空
+      logo: https://www.faviconextractor.com/favicon/gamersky.com?larger=true
+      url: https://www.gamersky.com/
+      description: 提供单机与主机游戏资讯、详尽攻略评测及玩家交流的单机大本营
+    - title: 3DMGAME
+      logo: https://www.faviconextractor.com/favicon/3dmgame.com?larger=true
+      url: https://www.3dmgame.com/
+      description: 专注于单机游戏汉化、ModMOD资源下载与深度论坛讨论的玩家社区
+    - title: 百度地图
+      logo: https://www.faviconextractor.com/favicon/map.baidu.com?larger=true
+      url: https://map.baidu.com/
+      description: 提供精准路线规划、实时路况与周边生活服务信息的地理导航平台
+    - title: 高德地图
+      logo: https://www.faviconextractor.com/favicon/amap.com?larger=true
+      url: https://www.amap.com/
+      description: 涵盖智能出行导航、打车打卡及打折吃喝玩乐的数字地图服务商
 
 - taxonomy: 国外热门网站
   icon: fa-globe
@@ -190,6 +210,42 @@
       logo: https://www.faviconextractor.com/favicon/amazon.com?larger=true
       url: https://www.amazon.com/
       description: 全球领先的跨国综合电商购物门户与云计算基础设施提供商
+    - title: Spotify
+      logo: https://www.faviconextractor.com/favicon/spotify.com?larger=true
+      url: https://open.spotify.com/
+      description: 拥有海量正版音乐、播客节目与精准个性化推荐的流媒体音乐平台
+    - title: Netflix (网飞)
+      logo: https://www.faviconextractor.com/favicon/netflix.com?larger=true
+      url: https://www.netflix.com/
+      description: 主打自制高清美剧、电影与纪录片的全球知名订阅制流媒体平台
+    - title: Pinterest
+      logo: https://www.faviconextractor.com/favicon/pinterest.com?larger=true
+      url: https://www.pinterest.com/
+      description: 基于视觉图片瀑布流的创意灵感搜集、设计参考与生活方式发现社区
+    - title: Steam
+      logo: https://www.faviconextractor.com/favicon/store.steampowered.com?larger=true
+      url: https://store.steampowered.com/
+      description: Valve 旗下涵盖PC游戏数字发售、社区讨论与创意工坊的庞大游戏平台
+    - title: Epic Games Store
+      logo: https://www.faviconextractor.com/favicon/epicgames.com?larger=true
+      url: https://store.epicgames.com/
+      description: 提供独占游戏大作、虚幻引擎生态与定期免费游戏发放的数字游戏商城
+    - title: eBay
+      logo: https://www.faviconextractor.com/favicon/ebay.com?larger=true
+      url: https://www.ebay.com/
+      description: 涵盖全新与二手货品在线竞拍、个人与商家在线交易的全球C2C电商门户
+    - title: AliExpress (速卖通)
+      logo: https://www.faviconextractor.com/favicon/aliexpress.com?larger=true
+      url: https://www.aliexpress.com/
+      description: 阿里巴巴旗下连接优质中国制造商品与全球消费者的跨境电商平台
+    - title: Booking.com
+      logo: https://www.faviconextractor.com/favicon/booking.com?larger=true
+      url: https://www.booking.com/
+      description: 提供全球酒店、民宿预订、租车及行程规划的一站式旅游度假服务商
+    - title: Airbnb (爱彼迎)
+      logo: https://www.faviconextractor.com/favicon/airbnb.com?larger=true
+      url: https://www.airbnb.com/
+      description: 主打独特特色民宿、短租公寓与当地特色深度体验的全球共享住宿平台
     
 - taxonomy: AI
   icon: fa-brain
