@@ -166,29 +166,97 @@
       url: https://zh.kid1412.rest/
       description: 世界上最大的在线图书馆之一
     
-- taxonomy: AI
+ - taxonomy: AI
   icon: fa-brain
   links:
-    - title: DeepSeek
-      logo: https://www.faviconextractor.com/favicon/chat.deepseek.com?larger=true
-      url: https://chat.deepseek.com/
-      description: 中国研发的大型语言模型平台
-    - title: ChatGPT
-      logo: https://www.faviconextractor.com/favicon/chat.openai.com?larger=true
-      url: https://chat.openai.com/
-      description: OpenAI推出的领先人工智能对话平台
-    - title: 谷歌 Gemini
-      logo: https://www.faviconextractor.com/favicon/gemini.google.com?larger=true
-      url: https://gemini.google.com/
-      description: 谷歌推出的人工智能助手
-    - title: Bing AI
-      logo: https://www.faviconextractor.com/favicon/bing.com?larger=true
-      url: https://bing.com/chat
-      description: 微软 Bing 集成的人工智能助手
-    - title: Claude
-      logo: https://www.faviconextractor.com/favicon/claude.ai?larger=true
-      url: https://claude.ai/
-      description: Anthropic 推出的 AI 写作与对话助手
+  - title: DeepSeek
+    logo: https://www.faviconextractor.com/favicon/chat.deepseek.com?larger=true
+    url: https://chat.deepseek.com/
+    description: 中国研发的大型语言模型平台
+  - title: ChatGPT
+    logo: https://www.faviconextractor.com/favicon/chat.openai.com?larger=true
+    url: https://chat.openai.com/
+    description: OpenAI推出的领先人工智能对话平台
+  - title: 谷歌 Gemini
+    logo: https://www.faviconextractor.com/favicon/gemini.google.com?larger=true
+    url: https://gemini.google.com/
+    description: 谷歌推出的人工智能助手
+  - title: Bing AI
+    logo: https://www.faviconextractor.com/favicon/bing.com?larger=true
+    url: https://bing.com/chat
+    description: 微软 Bing 集成的人工智能助手
+  - title: Claude
+    logo: https://www.faviconextractor.com/favicon/claude.ai?larger=true
+    url: https://claude.ai/
+    description: Anthropic 推出的 AI 写作与对话助手
+  - title: 豆包
+    logo: https://www.faviconextractor.com/favicon/doubao.com?larger=true
+    url: https://www.doubao.com/
+    description: 字节跳动推出的智能 AI 助手，支持对话、写作、图片和多种 AI 能力
+  - title: Kimi
+    logo: https://www.faviconextractor.com/favicon/kimi.com?larger=true
+    url: https://www.kimi.com/
+    description: 月之暗面推出的智能助手，擅长长文本处理、搜索和深度研究
+  - title: 通义千问
+    logo: https://www.faviconextractor.com/favicon/qianwen.com?larger=true
+    url: https://www.qianwen.com/
+    description: 阿里巴巴推出的大语言模型与 AI 助手平台
+  - title: 腾讯元宝
+    logo: https://www.faviconextractor.com/favicon/yuanbao.tencent.com?larger=true
+    url: https://yuanbao.tencent.com/
+    description: 腾讯推出的 AI 智能助手，支持联网搜索、文档分析和多种 AI 应用
+  - title: 文心一言
+    logo: https://www.faviconextractor.com/favicon/yiyan.baidu.com?larger=true
+    url: https://yiyan.baidu.com/
+    description: 百度推出的生成式人工智能助手，具备对话、创作和知识问答能力
+  - title: 智谱清言
+    logo: https://www.faviconextractor.com/favicon/chatglm.cn?larger=true
+    url: https://chatglm.cn/
+    description: 智谱推出的 AI 智能助手，基于 GLM 系列大语言模型
+  - title: 讯飞星火
+    logo: https://www.faviconextractor.com/favicon/sparkdesk.cn?larger=true
+    url: https://xinghuo.xfyun.cn/
+    description: 科大讯飞推出的人工智能大模型平台，支持对话、写作、编程等功能
+  - title: MiniMax
+    logo: https://www.faviconextractor.com/favicon/minimaxi.com?larger=true
+    url: https://www.minimaxi.com/
+    description: MiniMax 推出的多模态人工智能平台，提供文本、语音、视频等 AI 能力
+  - title: 夸克 AI
+    logo: https://www.faviconextractor.com/favicon/quark.cn?larger=true
+    url: https://www.quark.cn/
+    description: 夸克推出的 AI 助手，提供 AI 搜索、写作、总结和学习等功能
+  - title: 百小应
+    logo: https://www.faviconextractor.com/favicon/ying.baichuan-ai.com?larger=true
+    url: https://ying.baichuan-ai.com/
+    description: 百川智能推出的 AI 助手，支持智能问答和多种内容创作能力
+  - title: 商量
+    logo: https://www.faviconextractor.com/favicon/shangliang.cn?larger=true
+    url: https://shangliang.cn/
+    description: 中国移动推出的 AI 大模型智能助手平台
+  - title: 天工
+    logo: https://www.faviconextractor.com/favicon/tiangong.cn?larger=true
+    url: https://www.tiangong.cn/
+    description: 昆仑万维推出的 AI 智能助手，支持搜索、问答和内容创作
+  - title: 海螺 AI
+    logo: https://www.faviconextractor.com/favicon/hailuoai.com?larger=true
+    url: https://hailuoai.com/
+    description: MiniMax 推出的 AI 创作平台，支持 AI 视频、图片和文本生成
+  - title: 可灵 AI
+    logo: https://www.faviconextractor.com/favicon/klingai.com?larger=true
+    url: https://klingai.com/
+    description: 快手推出的 AI 创作平台，专注于 AI 视频和图像生成
+  - title: 即梦 AI
+    logo: https://www.faviconextractor.com/favicon/jimeng.jianying.com?larger=true
+    url: https://jimeng.jianying.com/
+    description: 字节跳动推出的 AI 创作平台，支持图片生成、视频生成和智能创作
+  - title: 通义万相
+    logo: https://www.faviconextractor.com/favicon/wanxiang.aliyun.com?larger=true
+    url: https://wanxiang.aliyun.com/
+    description: 阿里巴巴推出的 AI 创作平台，支持 AI 图片、视频等内容生成
+  - title: 腾讯混元
+    logo: https://www.faviconextractor.com/favicon/hunyuan.tencent.com?larger=true
+    url: https://hunyuan.tencent.com/
+    description: 腾讯推出的混元大模型平台，提供文本、图像和多模态 AI 能力
 
 - taxonomy: 在线免费影视专区
   icon: fa-film
