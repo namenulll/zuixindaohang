@@ -101,70 +101,70 @@
     - title: GitHub
       logo: images/logos/github.png
       url: https://github.com/
-      description: 全球最大的开源社区和软件开发平台
+      description: 汇聚全球核心代码的开源协作与版本控制托管平台
     - title: Facebook(脸书)
       logo: images/logos/fbb.png
       url: https://www.facebook.com/
-      description: 全球最大的社交网络平台
+      description: 联结全球真实熟人关系的综合性图文生活社交网络
     - title: 推特(X)
       logo: images/logos/x.png
       url: https://twitter.com/
-      description: 全球最大的即时信息分享平台
+      description: 主打即时新闻快讯、公众言论与国际热点速递的广场
     - title: YouTube(油管)
       logo: images/logos/ytb.png
       url: https://www.youtube.com/
-      description: 全球最大的视频分享平台
+      description: 沉淀多元长视频内容与创作者生态的流媒体视听门户
     - title: Reddit
       logo: images/logos/Reddit.png
       url: https://www.reddit.com/
-      description: 全球知名的社交新闻网站
+      description: 采用版主兴趣分区与网民投票推荐的海外主题大论坛
     - title: Medium
       url: https://medium.com/
-      description: 优质写作内容聚合平台
+      description: 倡导极简排版与极客深度思考的海外知识付费博客圈
     - title: Cloudflare
       logo: images/logos/cf.png
       url: https://www.cloudflare.com/
-      description: 域名托管网站
+      description: 专为网站打造的DNS解析、网络加速与抗DDoS防御安全盾
     - title: TikTok抖音海外版
       logo: images/logos/tk.png
       url: https://www.tiktok.com/
-      description: 全球热门的短视频分享平台
+      description: 引领全球潮流、搭载个性化算法推荐的竖屏短视频舞台
     - title: Google
       logo: https://www.faviconextractor.com/favicon/www.google.com?larger=true
       url: https://www.google.com/
-      description: 全球最大的搜索引擎和互联网技术公司
+      description: 精准检索全球网络信息并集成丰富云端工具的科技巨擘
     - title: Instagram
       logo: images/logos/ig.png
       url: https://www.instagram.com/
-      description: 全球最大的图片分享社交平台
+      description: 主打高颜值生活滤镜美图分享与名人动态的视觉社交圈
     - title: Gmail
       logo: images/logos/Gmail.png
       url: https://mail.google.com/
-      description: 谷歌邮箱
+      description: 提供安全防垃圾邮件机制的跨平台高容量电子邮箱系统
     - title: 谷歌地球
       logo: images/logos/images.png
       url: https://earth.google.com/
-      description: 全球高清卫星地图
+      description: 搭载高精度卫星三维渲染技术的地理测绘与云端世界地图
     - title: 维基百科
       logo: images/logos/weiki.png
       url: https://www.wikipedia.org/
-      description: 最大的自由内容百科全书
+      description: 由全人类志愿者协作编纂、无广告的百科全书编撰计划
     - title: Discord
       logo: images/logos/Discord.png
       url: https://discord.com/
-      description: 全球知名的语音、视频、文本聊天应用
+      description: 为游戏社群与项目组量身定制的低延迟音视频聊天服务器
     - title: whatismyipaddress
       logo: images/logos/whatismyipaddress.png
       url: https://whatismyipaddress.com/
-      description: IP地址查询 Whats my IP address?
+      description: 一键检测本地公网IP、地理位置与网络服务商的探针工具
     - title: twitch
       logo: images/logos//twcc.png
       url: https://www.twitch.tv/
-      description: 国外直播网站
+      description: 聚焦海外主机单机游戏实况、电竞赛事与二次元直播平台
     - title: Z-Library
       logo: images/logos/Z-Library.png
       url: https://zh.kid1412.rest/
-      description: 世界上最大的在线图书馆之一
+      description: 支持多语种电子书检索、学术文献免费下载的数字图书馆
     
 - taxonomy: AI
   icon: fa-brain
