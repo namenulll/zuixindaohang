@@ -1,7 +1,7 @@
 ---
-- taxonomy:  国内网站
-icon: fa-globe
-links:
+- taxonomy: 国内网站
+  icon: fa-globe
+  links:
 - title: IT之家
   logo: images/logos/it.png
   url: https://www.ithome.com/
