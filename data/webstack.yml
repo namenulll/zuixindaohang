@@ -2,102 +2,98 @@
 - taxonomy: 国内网站
   icon: fa-globe
   links:
-- title: IT之家
-  logo: images/logos/it.png
-  url: https://www.ithome.com/
-  description: 专注科技、数码与互联网领域的资讯平台
-- title: TechWeb
-  logo: https://www.faviconextractor.com/favicon/techweb.com.cn?larger=true
-  url: https://www.techweb.com.cn/
-  description: 聚焦互联网、科技与商业领域的综合资讯平台
-- title: 今日热榜
-  logo: images/logos/rebang.png
-  url: https://tophub.today/
-  description: 汇集全网热门榜单与实时热点资讯
-- title: 蓝点网
-  logo: images/logos/ldd.png
-  url: https://www.landiannews.com/
-  description: 专注微软、Windows与互联网科技资讯
-- title: 百度贴吧
-  logo: images/logos/tieba.png
-  url: https://tieba.baidu.com/
-  description: 以兴趣主题为核心的综合交流社区
-- title: 抖音
-  logo: images/logos/tk.png
-  url: https://www.douyin.com/
-  description: 提供短视频、直播与丰富娱乐内容的综合平台
-- title: 小红书
-  logo: images/logos/xiaohongshu.png
-  url: https://www.xiaohongshu.com/
-  description: 分享生活方式、消费体验与兴趣内容的社区平台
-- title: 哔哩哔哩
-  logo: images/logos/bilibi.png
-  url: https://www.bilibili.com/
-  description: 集视频、直播与兴趣内容于一体的综合社区平台
-- title: 西瓜视频
-  logo: images/logos/xigua.png
-  url: https://www.ixigua.com/
-  description: 提供电影、纪录片、短视频与原创内容的视频平台
-- title: 爱奇艺
-  logo: images/logos/aiqiyi.png
-  url: https://www.iqiyi.com/
-  description: 提供影视、综艺、动漫与纪录片等在线视频内容
-- title: 腾讯视频
-  logo: images/logos/aaaaa.png
-  url: https://v.qq.com/
-  description: 腾讯旗下提供影视、综艺、动漫与纪录片的视频平台
-- title: 虎牙直播
-  logo: images/logos/huya.png
-  url: https://www.huya.com/
-  description: 以游戏电竞为主的综合直播与互动娱乐平台
-- title: 斗鱼直播
-  logo: images/logos/douyu.png
-  url: https://www.douyu.com/
-  description: 提供游戏、电竞、娱乐与户外内容的直播平台
-- title: 什么值得买
-  logo: images/logos/mai.png
-  url: https://www.smzdm.com/
-  description: 提供商品评测、购物攻略与优惠信息的消费平台
-- title: 汽车之家
-  logo: images/logos/qccc.png
-  url: https://www.autohome.com.cn/
-  description: 提供汽车资讯、车型数据、评测与购车服务
-- title: 今日头条
-  logo: images/logos/tout.png
-  url: https://www.toutiao.com/
-  description: 聚合新闻资讯、热点内容与个性化信息推荐
-- title: 站长工具
-  logo: https://www.faviconextractor.com/favicon/ping.chinaz.com?larger=true
-  url: https://ping.chinaz.com/
-  description: 提供网站Ping检测、测速与站长常用查询服务
-- title: 优酷视频
-  logo: images/logos/youku.png
-  url: https://www.youku.com/
-  description: 提供电视剧、电影、综艺、动漫等视频内容
-- title: 多邻国
-  logo: images/logos/dlguo.png
-  url: https://www.duolingo.cn/
-  description: 通过游戏化方式提供多种语言学习课程与练习
-- title: 京东
-  logo: images/logos/jdong.png
-  url: https://www.jd.com/
-  description: 提供商品购物、品质零售与快速配送服务的综合电商平台
-- title: 懂车帝
-  logo: images/logos/dcd1.png
-  url: https://www.dongchedi.com/
-  description: 提供汽车资讯、车型评测、选车与购车信息
-- title: 易车网
-  logo: images/logos/yiche.png
-  url: https://www.yiche.com/
-  description: 提供汽车资讯、车型报价、评测与购车服务
-- title: 游侠网
-  logo: https://www.faviconextractor.com/favicon/ali213.net?larger=true
-  url: https://www.ali213.net/
-  description: 专注单机游戏资讯、攻略、评测与游戏下载
-- title: 快手
-  logo: https://www.faviconextractor.com/favicon/kuaishou.com?larger=true
-  url: https://www.kuaishou.com/
-  description: 提供短视频、直播与创作者内容的综合娱乐平台
+    - title: IT之家
+      logo: images/logos/it.png
+      url: https://www.ithome.com/
+      description: 紧跟前沿的科技数码资讯与智能硬件评测平台
+    - title: TechWeb
+      logo: https://www.faviconextractor.com/favicon/techweb.com.cn?larger=true
+      url: https://www.techweb.com.cn/
+      description: 聚焦互联网行业动态与企业级科技创新的新媒体
+    - title: 今日热榜
+      logo: images/logos/rebang.png
+      url: https://tophub.today/
+      description: 全网多平台实时热门头条与趋势动态聚合全景看板
+    - title: 蓝点网
+      logo: images/logos/ldd.png
+      url: https://www.landiannews.com/
+      description: 专注操作系统、网络安全及前沿软件技术的深度博客
+    - title: 百度贴吧
+      logo: images/logos/tieba.png
+      url: https://tieba.baidu.com/
+      description: 基于关键词兴趣圈子的中文网络主题交流社区
+    - title: 抖音
+      logo: images/logos/tk.png
+      url: https://www.douyin.com/
+      description: 风靡全国的短视频创作分享与多元化直播社交平台
+    - title: 小红书
+      logo: images/logos/xiaohongshu.png
+      url: https://www.xiaohongshu.com/
+      description: 包含年轻一代潮流生活方式的标记与消费决策种草社区
+    - title: 哔哩哔哩
+      logo: images/logos/bilibi.png
+      url: https://www.bilibili.com/
+      description: 聚集二次元文化与高品质创作者的年轻人多元视频社区
+    - title: 西瓜视频
+      logo: images/logos/xigua.png
+      url: https://www.ixigua.com/
+      description: 汇聚丰富生活技能与横屏中视频的职业创作人分发平台
+    - title: 爱奇艺
+      logo: images/logos/aiqiyi.png
+      url: https://www.iqiyi.com/
+      description: 主打正版高清影视剧集与精品自制综艺的正版视听平台
+    - title: 腾讯视频
+      logo: images/logos/aaaaa.png
+      url: https://v.qq.com/
+      description: 拥有海量独播动漫、爆款大剧与体育赛事的综合视频网
+    - title: 虎牙直播
+      logo: images/logos/huya.png
+      url: https://www.huya.com/
+      description: 聚焦顶级电竞赛事高清转播与热门网游的互动直播平台
+    - title: 斗鱼直播
+      logo: images/logos/douyu.png
+      url: https://www.douyu.com/
+      description: 涵盖游戏解说、娱乐综艺与跨界互动的游戏直播社区
+    - title: 什么值得买
+      logo: images/logos/mai.png
+      url: https://www.smzdm.com/
+      description: 提供全网电商好价线索与真实用户消费好物评测的导购门户
+    - title: 汽车之家
+      logo: images/logos/qccc.png
+      url: https://www.autohome.com.cn/
+      description: 提供详尽车型参数比对、新车报价与活跃车友会论坛的平台
+    - title: 今日头条
+      logo: images/logos/tout.png
+      url: https://www.toutiao.com/
+      description: 智能推荐全品类图文资讯、热点视频与微头条的内容精选平台
+    - title: 站长工具
+      logo: https://www.faviconextractor.com/favicon/ping.chinaz.com?larger=true
+      url: https://ping.chinaz.com/
+      description: 专为网络运维打造的网站测速、域名备案及网站SEO分析套件
+    - title: 优酷视频
+      logo: images/logos/youku.png
+      url: https://www.youku.com/
+      description: 阿里文娱旗下沉淀经典港剧、海外大片与合家欢综艺的视频网站
+    - title: 多邻国
+      logo: images/logos/dlguo.png
+      url: https://www.duolingo.cn/
+      description: 采用游戏化通关模式的免费多语种碎片化语言学习系统
+    - title: 京东
+      logo: images/logos/jdong.png
+      url: https://www.jd.com/
+      description: 倡导正品行货并以自营高效物流著称的大型综合购物商城
+    - title: 懂车帝
+      logo: images/logos/dcd1.png
+      url: https://www.dongchedi.com/
+      description: 包含真实车型实测、3D看车及靠谱车价查询的智能化汽车媒体
+    - title: 易车网
+      logo: images/logos/yiche.png
+      url: https://www.yiche.com/
+      description: 联结汽车经销商网络并提供全面购车用车指导的资深汽车门户
+    - title: 游侠网
+      logo: https://www.faviconextractor.com/favicon/ali213.net?larger=true
+      url: https://www.ali213.net/
+      description: 专注单机大作速递、汉化补丁发布与深度游戏攻略的权威基地
 
 - taxonomy: 国外热门网站
   icon: fa-globe
